@@ -1,5 +1,3 @@
 ## Olá! Eu sou o Pierre Braz
 
-- 🌱 Estudo Typescript
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PIERREBRAZ_1)
